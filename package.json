@@ -5,7 +5,7 @@
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
-    "deploy": "sh ./deploy.sh"
+    "deploy": "sh deploy.sh"
   },
   "dependencies": {
     "@popperjs/core": "^2.11.5",
